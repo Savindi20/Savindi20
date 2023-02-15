@@ -1,6 +1,7 @@
 <img width="1200" height="200"
   src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/"
   alt="Alt text">
+  
 <h1 align="center">Hi 👋, I'm Savindi Dadallage</h1>
 <h3 align="center">A passionate Web & Mobile Developer from Sri Lanka</h3>
 <br/>
