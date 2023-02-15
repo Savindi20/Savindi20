@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Savindi20](https://github.com/Savindi20)
+- 👨‍💻 All of my projects are available at https://github.com/Savindi20
 
 - 🎓 I’m currently learning at **IJSE(Institute of Software Engineering)**
 
