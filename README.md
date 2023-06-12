@@ -29,13 +29,22 @@
 
 ###
 ## Github Activity ✔:
+
 <div align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=Savindi20&show_icons=true&theme=tokyonight&line_height=27" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&theme=tokyonight" /> 
-   <br/>
-   <br/>
-   <img  src="https://github-profile-trophy.vercel.app/?username=Savindi20&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" /> </a> 
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Savindi20&theme=tokyonight" /> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&theme=tokyonight" /> 
+<br>
 </div>
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savindi20&theme=tokyonight" />
+
+<br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Savindi20&theme=tokyonight&utcOffset=8" />
+<br> 
+<p>
+  
 <br/>
 <br/>
 
