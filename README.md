@@ -32,7 +32,7 @@
 
 <div align="center">
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Savindi20&theme=tokyonight" /> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&theme=tokyonight" /> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&theme=tokyonight&hide_progress=true" />
 <br>
 </div>
 
