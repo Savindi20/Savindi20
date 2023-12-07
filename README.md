@@ -2,75 +2,73 @@
   src="https://github.com/Savindi20/Savindi20/blob/main/welcome%20gif.gif"
   alt="Alt text">
   
-<h1 align="center">Hi 👋, I'm Savindi Dadallage</h1>
-<h3 align="center">A passionate Web & Mobile Developer from Sri Lanka</h3>
-<br/>
-<br/>
+<h1 align="left">Hi 👋, I'm Savindi Dadallage</h1>
 
 <img align="right" alt="coding" width="300" src="https://github.com/Savindi20/Savindi20/blob/main/githubgif.gif">
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
-
-- 👨‍💻 All of my projects are available at https://github.com/Savindi20
-
+- 🖥️  See my portfolio at [My Website](https://savindi20.github.io/MyPortFolioNew/)
 - 🎓 I’m currently learning at **IJSE(Institute of Software Engineering)**
-
 - 📫 How to reach me **savindidadallage@gmail.com**
+- 🧠  I'm learning React, angular, nest, Express, Firebase
 
+## Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/savindi-dadallage-9a9212248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savindi-dadallage-9a9212248" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21202546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21202546" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@savindidadallage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@savindidadallage" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/savindi-dadallage-9a9212248"  target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.hackerrank.com/@savindidadallage" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+</p> 
 
-###
-## Github Activity ✔:
+## Github Activity
 
 <div align="center">
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Savindi20&theme=tokyonight" /> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&theme=tokyonight&hide_progress=true" />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Savindi20&theme=react" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi20&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" />
 <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savindi20&theme=react" />
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Savindi20&theme=react&utcOffset=8" />
+<br> 
 </div>
 
-<p align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savindi20&theme=tokyonight" />
+## Languages and Tools
 
-<br>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Savindi20&theme=tokyonight&utcOffset=8" />
-<br> 
-<p>
-  
-<br/>
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" heigh="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="center">
+<code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nest"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=next"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=express"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=angular"></code> 
+<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=materialui"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=css"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=git"></code>
+<br>  
+<br>  
+<code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
+<br>  
+<br>  
+<code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=xd"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=idea"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=photoshop"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
+</div>
+</br>
 
 <br/>
 
