@@ -1,7 +1,3 @@
-<img width="1200" height="200"
-  src="https://github.com/Savindi20/Savindi20/blob/main/welcome%20gif.gif"
-  alt="Alt text">
-  
 <h1 align="left">Hi 👋, I'm Savindi Dadallage</h1>
 
 <img align="right" alt="coding" width="300" src="https://github.com/Savindi20/Savindi20/blob/main/githubgif.gif">
