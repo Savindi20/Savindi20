@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋, I'm Savindi Dadallage</h1>
-
 <img align="right" alt="coding" width="300" src="https://github.com/Savindi20/Savindi20/blob/main/githubgif.gif">
+<h1 align="left">Hi 👋, I'm Savindi Dadallage</h1>
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 - 🖥️  See my portfolio at [My Website](https://savindi20.github.io/MyPortFolioNew/)
